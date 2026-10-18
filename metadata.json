@@ -1,0 +1,6 @@
+{
+  "name": "Sawtify Arabic Speech-to-Text (Whisper AI)",
+  "description": "Application de transcription vocale en langue arabe propulsée par Whisper-large-v3-turbo de Cloudflare Workers AI avec interface micro interactive et configuration de déploiement Cloudflare.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
